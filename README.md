@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=건물균열 검사 AI 시스템&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=건물균열%20검사%20AI%20시스템&fontAlignY=40" />
 
 # 📚 Environments  
 <div align=left>  
