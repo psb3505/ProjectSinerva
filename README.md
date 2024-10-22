@@ -22,6 +22,5 @@
   
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
-  <a href='https://www.notion.so/ea582f54100d4384aa9473572ab7e46f'><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <br>
 </div>
