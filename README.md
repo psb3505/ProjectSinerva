@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=건물균열%20검사%20AI%20시스템&fontAlignY=40" />
 
-# 📜 Implement
+# 🌐 Implement
 <div align=left>
 
   ## 건물균열 검사 및 코멘트 요청
