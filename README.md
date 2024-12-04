@@ -17,6 +17,11 @@
 
 <hr>
 
+# 🔷 ERD
+![건물균열 검사 AI 시스템 ERD](https://github.com/user-attachments/assets/8ef433ec-32eb-49cc-ae3f-f0fd1cf31f7a)
+
+<hr>
+
 # 📚 Environments  
 <div align=left>  
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
